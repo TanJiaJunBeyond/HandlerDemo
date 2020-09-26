@@ -1,15 +1,0 @@
-
-J
-java:S1128
-".Remove this unused import 'android.os.Looper'.(ù‚Â8‹°®· .
-Q
-java:S1128"4Remove this unused import 'android.os.MessageQueue'.(Ë›Ûë8‹°®· .
-U
-java:S1128"8Remove this unused import 'android.annotation.Nullable'.(ÿøº›8‹°®· .
-P
-java:S1128"3Remove this unused import 'android.os.SystemClock'.(˜é¡±8‹°®· .
-X	java:S110"<This class has 9 parents which is greater than 5 authorized.(≤⁄±é8Í›†û».
-O
-java:S1128"-Remove this unused import 'android.util.Log'.(‘¶ÿ≤¯ˇˇˇˇ8‹°®· .
-Q
-java:S3985"/Remove this unused private "MainHandler" class.(Ëœˆ±˝ˇˇˇˇ8Í›†û».
